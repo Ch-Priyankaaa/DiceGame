@@ -1,0 +1,41 @@
+body {
+  background-color: #2f5d62;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Orbitron', sans-serif;
+  color:#9fd8df;
+  font-size: 90px;
+  text-shadow: 5px 0 #557174;
+}
+
+p {
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+
+.players {
+  color :#9fd8df;
+  font-size: 45px;
+}
+
+img {
+  width: 13rem;
+  padding: 0 40px 0 30px;
+}
+
+.dice {
+  display: inline-block;
+  text-align: center;
+}
+
+.footer {
+  margin-top: 70px;
+  font-size: 20px;
+}
